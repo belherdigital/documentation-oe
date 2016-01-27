@@ -1,0 +1,48 @@
+# Topnav single links
+# if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  subcategories:
+    - title: Demo
+      external_url: https://open-eshop.com/demo/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+
+    - title: Market
+      external_url: https://open-eshop.com/market/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+
+    - title: Github Repo
+      external_url: https://github.com/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  subcategories:
+    - title: Forums
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      items:
+        - title: Support
+          external_url: https://market.open-eshop.com/forum/support
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+        - title: Suggestions
+          external_url: https://market.open-eshop.com/forum/suggestions
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
