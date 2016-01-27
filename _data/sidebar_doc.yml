@@ -1,0 +1,406 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+# Sidebar
+entries:
+- title: Sidebar
+  subcategories:
+    - title: Frontmatter # leave this frontmatter section here for PDF outputs
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      web: false
+      items:
+        - title: Title Page
+          url: /titlepage.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+          web: false
+          frontmatter: true
+
+        - title: Table of Contents
+          url: /tocpage.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+          web: false
+          frontmatter: true
+
+    - title: Get Started
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+
+      items:
+
+        - title: What is Open eShop
+          url: /index.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Software requirements
+          url: /software-requirements/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Installation Process
+          url: /installation-process/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Create MySQL database
+          url: /create-mysql-database/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+    - title: eShop
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: How to add a new Product?
+          url: /add-product/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: 8 Types of Digital Goods You Can Sell Online
+          url: /types-products/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Add Categories and Manage them?
+          url: /add-categories/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to add a new order and why?
+          url: /add-new-order/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to create a coupon and use it?
+          url: /create-coupon/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Why Offering Coupons and Discounts is a Good Investment?
+          url: /why-use-coupons/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to manage licenses
+          url: /manage-licenses/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+    - title: Content
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: How to add pages?
+          url: /add-pages/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Automatic emails sent to users
+          url: /automatic-emails/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to translate and change language?
+          url: /change-language/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How can I edit texts on the website?
+          url: /change-texts/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to send newsletters to your online store clients
+          url: /send-newsletter/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to manage images uploaded from editor
+          url: /cms-images/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+    - title: Appearance
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: Is a Premium Theme Right for my Online Store?
+          url: /premium-theme/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Change Theme
+          url: /change-theme/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How To Setup Infinite Scroll
+          url: /infinite-scroll/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Add a Logo to an Ecommerce Website
+          url: /add-logo/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to use Custom CSS
+          url: /custom-css/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Overview of Widgets
+          url: /widgets-overview/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Modify Top Menu
+          url: /modify-top-menu/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+    - title: Settings
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+
+        - title: How to Activate Maintenance Mode
+          url: /activate-maintenance-mode/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Allow/Disallow Bots and Crawlers
+          url: /allow-disallow-bots-crawlers/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Change Time Zone
+          url: /change-timezone/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Home or listing as a landing page
+          url: /landing-page/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Change Currency
+          url: /change-currency/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Create an Online Store Blog
+          url: /create-blog/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: 10 Steps to Create an FAQ System for a Digital Goods Store
+          url: /create-faq-system/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Add a Forum to a Digital Goods Store
+          url: /add-forum/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Setup Payment Gateways in Open eShop
+          url: /setup-payment-gateways/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Configure ElasticEmail on Open eShop?
+          url: /elasticemail/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to change Settings for Products
+          url: /product-configuration/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to login using Social Auth
+          url: /social-auth/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+    - title: Users
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+
+        - title: How to Manage Users
+          url: /manage-users/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How roles work
+          url: /roles-work/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+    - title: Tools
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+
+        - title: How to Set Crons
+          url: /set-crons/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Generate Sitemap
+          url: /generate-sitemap/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+    - title: Profile
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+
+        - title: How to Use Support System
+          url: /support/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: How to Edit your Profile
+          url: /edit-profile/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+    - title: Technical
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+
+        - title: Open eShop database description
+          url: /database-description/
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+
+
+
+
