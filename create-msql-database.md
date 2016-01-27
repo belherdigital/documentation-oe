@@ -13,7 +13,7 @@ To start a installation process of Open eShop software you need:
 All of managed web hostings come with some short of automation for this. If yours does not, check our [list of tested hosting providers that work with our software]({{ site.baseurl }}/software-requirements/#where-can-i-host-my-online-store).
 To let you know how to do it, we would like to provide you with some videos, done by users, explaining this process in different panels. Feel free to check the available options and choose the best one for you.
 
-+ [CPanel](https://www.youtube.com/embed/YbIn--iNmKE)
+## [CPanel](https://www.youtube.com/embed/YbIn--iNmKE)
 
 To set up a **database using the MySQL Database Wizard:**
 
