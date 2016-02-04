@@ -1,5 +1,5 @@
 ---
-title:  How to add a new product?
+title:  How to add categories?
 date:   2014-04-15 06:59:46
 categories: eShop
 tags: eShop
