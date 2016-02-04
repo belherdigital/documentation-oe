@@ -11,7 +11,7 @@ homepage_title: Open Eshop Documentation
 site_title: Open Eshop Documentation
 disqus_shortname: openeshop
 google_analytics: UA-4562297-26
-github_editme_path: open-classifieds/documentation-oe/blob/gh-pages
+github_editme_path: open-classifieds/documentation-oe
 # don't use a slash before or after the above path. here's how this url gets written out in page.html: https://github.com/{{site.github_editme_path}}{{page.url | replace: '.html', '.md'}}
 # variables
 
