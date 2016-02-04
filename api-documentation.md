@@ -5,7 +5,7 @@ categories: settings
 tags: settings
 permalink: /api-documentation/
 ---
-_Note that you need a premium theme to use the API!_
+_Note that you need a premium theme to use the API! Orders, Licenses and Coupons are on API v2._
 
 Open eShop have really simple api endpoints that do not require any kind of identification.
 
