@@ -55,7 +55,7 @@ At the bottom section you could upload screenshots or product images and upload 
 
 When everything is ready press **Save**.
 
-You could easily **show and hide a product** by checking and un-checking the “Active” check-box at the bottom.
+You could easily **show and hide a product** by checking and un-checking the "Active" check-box at the bottom.
 
 ## How do I notify clients of new product release?
 

@@ -7,17 +7,17 @@ permalink: /allow-disallow-bots-crawlers/
 ---
 A web bot is a computer program that systematically browses websites and creates indexes for them, by tracking the keywords entered on the internet. Having different purposes for their existence, these bots operate more or less in the same manner. [Open Eshop](http://open-eshop.com/) allows you to prevent those bots from accessing your classifieds website or give them back their access with a single switch.
 
-The process of collecting information from online web documents helps to reveal a website’s structure and purpose. Therefore, the web bots/crawlers return these results to their respective search engines whenever the keywords match the search – for example, Bing, Google, Yahoo!, etc.
+The process of collecting information from online web documents helps to reveal a website's structure and purpose. Therefore, the web bots/crawlers return these results to their respective search engines whenever the keywords match the search - for example, Bing, Google, Yahoo!, etc.
 
 ## Why would I want to block the bots?
 
 There are many reasons why webmasters or developers might want to block robots from indexing on their sites, and these include (but are not limited to):
 
-+ The fact that, not all bots are good – some are bad and can crash your system.
++ The fact that, not all bots are good - some are bad and can crash your system.
 + The fact that, granting bots access can generally leave a site exposed and vulnerable.
 + Privacy, copyrights and legal issues.
 
-However, allowing bots/crawlers to navigate your website has its advantages; particularly with regards to a great SEO (Search Engine Optimization) campaign. So you shouldn’t block all bots because some are ‘good’.
+However, allowing bots/crawlers to navigate your website has its advantages; particularly with regards to a great SEO (Search Engine Optimization) campaign. So you shouldn't block all bots because some are ‘good'.
 
 ## To allow/disallow Bots and Crawlers:
 
@@ -29,5 +29,5 @@ However, allowing bots/crawlers to navigate your website has its advantages; par
   Toggle the **Disallows (blocks) Bots and Crawlers on this website** option OFF(to **allow** the bots).
 5. Click the **Save** button.
 
-✔ **The change is successful – general configuration updated.**
+**The change is successful - general configuration updated.**
 

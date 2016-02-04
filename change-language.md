@@ -5,19 +5,19 @@ categories: content
 tags: content
 permalink: /change-language/
 ---
-When your online store is becoming more international, changing languages and editing translations will be necessary.  Our OE script offers current translations in two languages:
+When your online store is becoming more international, changing languages and editing translations will be necessary. Our OE script offers current translations in two languages:
 
 + English (US)
 + Spanish
 
-The feature of setting up a new language just with a one click seems to be very easy, isn’t it? So make these simple steps following our hints:
+The feature of setting up a new language just with a one click seems to be very easy, isn't it? So make these simple steps following our hints:
 
 ## How to change language?
 
 1. Go to your **Admin Panel**
 2. Choose **Content > Translations** from the left sidebar
 3. From the **list of available language versions** choose your locale
-4. Press **Activate** button next to the locale you’ve chosen
+4. Press **Activate** button next to the locale you've chosen
 5. The language of your eCommerce Website is already changed!
 
 ![translations]({{ site.baseurl }}/images/translations.png)

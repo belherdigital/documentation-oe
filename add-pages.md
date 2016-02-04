@@ -14,7 +14,7 @@ To add new pages go to **Panel** and from **Content** choose **Page** from the l
 Fill in the fields:
 
 + **Title:** choose the title of the page e.g. Terms of Service
-+ **Locale:** select from the list of available locales the one you’re currently using. Make sure it’s the correct one. Otherwise page won’t be displayed.
++ **Locale:** select from the list of available locales the one you're currently using. Make sure it's the correct one. Otherwise page won't be displayed.
 + **Description:** paste here the content of the page. You can use formatting, include images etc. To paste html switch to Source mode – click last button in the text editor (View source).
 + **Seotitle**
 + **Active:** make sure the box is checked, only then the site will be active.
@@ -25,7 +25,7 @@ After **deleting cache** (go to Tools > Cache and hit Delete All) your site will
  
 ## Widget
 
-If you want links to all your pages be always accessible e.g. in the sidebar use **Pages widget**. To activate it click **Appearance > Widgets** in the left sidebar of the Panel. Choose widget Pages and hit **Create**. Choose the place where it will be displayed and it’s title and **Save Changes**.
+If you want links to all your pages be always accessible e.g. in the sidebar use **Pages widget**. To activate it click **Appearance > Widgets** in the left sidebar of the Panel. Choose widget Pages and hit **Create**. Choose the place where it will be displayed and it's title and **Save Changes**.
 
 Your pages will appear in this widget according to their creation order.
 

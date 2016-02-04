@@ -69,7 +69,7 @@ This social login **might change depending on Facebook** !
 
 6\. Click **Save Changes**<br>
 7\. Go to **Status & Review**<br>
-8\. Answer **”_Do you want to make this app and all its live features available to the general public?_”** with **YES**<br>
+8\. Answer **"_Do you want to make this app and all its live features available to the general public?_"** with **YES**<br>
 
 ![fb1](//docs.yclas.com/images/facebook4.png)
 

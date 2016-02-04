@@ -10,12 +10,12 @@ With Open eShop you can have a fully functional forum section. This enables your
 Here is **how to add a forum section**:
 
 1. Log in to your **Admin Panel**
-2. Go to **Settings > General**
+2. Go to **Settings -> General**
 3. In **Activates Forums** choose **ON** and press **Update**
 
 ![forum]({{ site.baseurl}}/images/forum.png)
 
-4\. Go to **Content > Forums**
+4\. Go to **Content -> Forums**
 
 5\. Press on **New Forum**
 

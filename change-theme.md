@@ -14,14 +14,14 @@ To change look and feel of your site go to **Panel** and choose **Appearance** t
  
 ## Buying new theme and its installation
 
-If you don’t have any available themes to choose from, below that section you will find selection of themes from the [market](https://market.open-eshop.com/). Check them out and find the one perfect for you. Just hit **Buy now!** and you will be redirected to the site where you can complete the payment. After purchasing you will be provided with the download link and all necessary information.
+If you don't have any available themes to choose from, below that section you will find selection of themes from the [market](https://market.open-eshop.com/). Check them out and find the one perfect for you. Just hit **Buy now!** and you will be redirected to the site where you can complete the payment. After purchasing you will be provided with the download link and all necessary information.
 
-When you buy premium theme we offer you its **free installation** – contact us and we’ll do it for you. But you can also do installation by yourself because it is really easy and fast. You just need to go to **Appearance > Themes**, upload the downloaded theme file and press Activate. When you go once again to Panel > Appearance > Themes you will notice that the new theme is visible in Available Themes section. Then click **Activate**.
+When you buy premium theme we offer you its **free installation** – contact us and we'll do it for you. But you can also do installation by yourself because it is really easy and fast. You just need to go to **Appearance > Themes**, upload the downloaded theme file and press Activate. When you go once again to Panel > Appearance > Themes you will notice that the new theme is visible in Available Themes section. Then click **Activate**.
 
  
 ## Modifying themes
 
-If you want to go beyond the themes that we offer in the market and make some unique improvements you’re free to do so. You have access to **source code** so you can make any changes you need. We can also help you build your own **custom theme** according to your specific needs and make your site unique. Just [contact us](https://open-eshop.com/contact/)!
+If you want to go beyond the themes that we offer in the market and make some unique improvements you're free to do so. You have access to **source code** so you can make any changes you need. We can also help you build your own **custom theme** according to your specific needs and make your site unique. Just [contact us](https://open-eshop.com/contact/)!
 
 
 
