@@ -5,7 +5,7 @@ type: first_page
 homepage: true
 published: true
 ---
-![what is oe]({{ site.baseurl }}/images/whatisoe.png)
+[![what is oe]({{ site.baseurl }}/images/whatisoe.png)](https://open-eshop.com/)
 
 Open eShop is an eCommerce software that helps you run a fully functional digital goods store with little to no knowledge in web-design or web-development. It is a free open source software, so it’s ready for any modification from developers or advanced users.
 
