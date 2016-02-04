@@ -7,17 +7,17 @@ permalink: /why-use-coupons/
 ---
 ![why use coupons]({{ site.baseurl }}/images/why-use-coupons.jpg)
 
-You may hear from people that offering promotional discounts and coupons for your customers could contribute to reducing your profit and might give the “desperate for sales” impression. Do you believe in this theory? Nothing could be more wrong! Coupons and discounts are great tools to activate the sales, make a direct impact on customers’ actions and improve your brand image! Below you can find some reasons why we strongly agree with using coupons and discounts.
+You may hear from people that offering promotional discounts and coupons for your customers could contribute to reducing your profit and might give the "desperate for sales" impression. Do you believe in this theory? Nothing could be more wrong! Coupons and discounts are great tools to activate the sales, make a direct impact on customers’ actions and improve your brand image! Below you can find some reasons why we strongly agree with using coupons and discounts.
 
 ## 8 reasons why offering coupons and discounts for selling goods online is a good investment
 
-### 1. Save your time – sell promptly
+### 1. Save your time - sell promptly
 
 These tools let you sell digital goods as soon as possible, when there is a deal people rush to take advantage of that discount and your sales ration will accelerate. It can be especially useful for neglected products.
 
 ### 2. Boost the number of selling products
 
-You would be able to see the increasing interest for your products – clients promotions are always a very tempting options! Upselling and cross-selling methods can be profitable when the customers will decide on buying more related items, upgrades, or other add-ons.
+You would be able to see the increasing interest for your products - clients promotions are always a very tempting options! Upselling and cross-selling methods can be profitable when the customers will decide on buying more related items, upgrades, or other add-ons.
 
 ### 3. Increase traffic to your website
 
@@ -35,9 +35,9 @@ Extremely difficult feature to acquire! Especially when the market is full of ea
 
 Word-of-mouth is one of the most persuasive tools to convince the new clients to purchase the brand products. Give people a positive reason to talk about your business and spread the word. Let your existing clients be satisfied your digital goods and services making sure that they will recommend you to their families, friends and people from their immediate surroundings!
 
-### 7. Save money – limited advertising costs
+### 7. Save money - limited advertising costs
 
-In many cases you don`t need to pay much costs to help an offer run during the whole promotional period, which saves additional marketing costs. But be aware that your first steps are crucial! although creating coupons and promotional codes can be an easy task with [Open eShop](http://open-eshop.com/), You have to make an effort to raise awareness of an offer accordingly. get the word to targeted clients through e-mails (avoid spamming!), publish news on your website, blog, social media accounts and let the news go viral!
+In many cases you don't need to pay much costs to help an offer run during the whole promotional period, which saves additional marketing costs. But be aware that your first steps are crucial! although creating coupons and promotional codes can be an easy task with [Open eShop](http://open-eshop.com/), You have to make an effort to raise awareness of an offer accordingly. get the word to targeted clients through e-mails (avoid spamming!), publish news on your website, blog, social media accounts and let the news go viral!
 
 ### 8. Measurable results
 

@@ -12,7 +12,7 @@ Any new purchase that happens on your website is registered as a new order at yo
 But sometimes you might get a payment through a different method than the payment gateways within Open eShop, or you might want to register a cash payment and add it to your sales statistics. here are the steps to do so:
 
 - Log in to your admin panel
-- go to **eShop** tab -> **Orders** and press on **"New"**
+- go to **eShop** tab -> **Orders** and press on **New**
 
 Here you need to fill in the following fields:
 

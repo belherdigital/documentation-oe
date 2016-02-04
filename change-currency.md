@@ -16,15 +16,15 @@ Firstly, you should go to **Settings > General > Money format** and input your p
 
 ## Locale and your digital goods store currency
 
-Your locale doesn’t only determine your website currency, but also the way of displaying the price (e.g. using point or comma to separate decimals, displaying currency sign before or after the price), differs from country to country. That’s why **it is important what locale you’re using**.
+Your locale doesn't only determine your website currency, but also the way of displaying the price (e.g. using point or comma to separate decimals, displaying currency sign before or after the price), differs from country to country. That's why **it is important what locale you're using**.
 
-For example, if you are using **es_ES**, your currency will be recognized as "**€**", which is a legal medium of exchange in Spain. Locale is composed by the shortcut of a language and a country – so if you want to have your site in Spanish, but don’t want to use Euro as a currency, you need to set your locale, e.g. as **es_MX** – your digital goods currency will be Mexican Peso.
+For example, if you are using **es_ES**, your currency will be recognized as "**€**", which is a legal medium of exchange in Spain. Locale is composed by the shortcut of a language and a country - so if you want to have your site in Spanish, but don't want to use Euro as a currency, you need to set your locale, e.g. as **es_MX** - your digital goods currency will be Mexican Peso.
 
 **To rename your locale** go to the /languages/ folder in your installation files and simply change the name of the language file you use eg: /languages/es_ES to /languages/es_MX
 
-If you don’t want to use any sign or **use completely different currency** than that one you use in your country, use a locale that doesn’t exist, e.g. change /languages/en_US ($) to /languages/en_EN or /languages/es_ES (€) to /languages/es_XX.
+If you don't want to use any sign or **use completely different currency** than that one you use in your country, use a locale that doesn't exist, e.g. change /languages/en_US ($) to /languages/en_EN or /languages/es_ES (€) to /languages/es_XX.
 
-Then, in General Settings in the Panel, edit field **Money Format** – if you put there %n only the number will be displayed (e.g. 100 without any sign). If you put $%n price will be displayed in this format: $100, if %n€ system will display 100€ etc.
+Then, in General Settings in the Panel, edit field **Money Format** - if you put there %n only the number will be displayed (e.g. 100 without any sign). If you put $%n price will be displayed in this format: $100, if %n€ system will display 100€ etc.
 
 We hope that our tips are useful for you. when you need support, feel free to post at our forums or send us a support ticket.
 

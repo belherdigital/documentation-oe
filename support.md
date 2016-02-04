@@ -25,7 +25,7 @@ Once your users logged into their account at your market they should be able to 
 
 ![support3]({{ site.baseurl }}/images/support3.png)
 
-When a client clicks “New” their ticket opening panel comes up, in which they could put the title and describe whatever they need your help with.
+When a client clicks "New" their ticket opening panel comes up, in which they could put the title and describe whatever they need your help with.
 
 ![support4]({{ site.baseurl }}/images/support4.png)
 
@@ -35,7 +35,7 @@ If the issue requires more characters than the current 1000 Character limit then
 
 ### Replying to a ticket
 
-Remember that the client has to be logged in with his purchase e-mail to access his support ticket, when a client does that he can see a list of all opened tickets with their status; Opened, held or closed. A ticket is on “hold” status when the client receives a reply from one of the support agents.
+Remember that the client has to be logged in with his purchase e-mail to access his support ticket, when a client does that he can see a list of all opened tickets with their status; Opened, held or closed. A ticket is on "hold" status when the client receives a reply from one of the support agents.
 
 ![support5]({{ site.baseurl }}/images/support5.png)
 
