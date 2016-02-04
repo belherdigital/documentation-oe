@@ -18,7 +18,7 @@ Firstly, you should go to **Settings > General > Money format** and input your p
 
 Your locale doesn't only determine your website currency, but also the way of displaying the price (e.g. using point or comma to separate decimals, displaying currency sign before or after the price), differs from country to country. That's why **it is important what locale you're using**.
 
-For example, if you are using **es_ES**, your currency will be recognized as "**€**", which is a legal medium of exchange in Spain. Locale is composed by the shortcut of a language and a country - so if you want to have your site in Spanish, but don't want to use Euro as a currency, you need to set your locale, e.g. as **es_MX** - your digital goods currency will be Mexican Peso.
+For example, if you are using **es_ES**, your currency will be recognized as **€**, which is a legal medium of exchange in Spain. Locale is composed by the shortcut of a language and a country - so if you want to have your site in Spanish, but don't want to use Euro as a currency, you need to set your locale, e.g. as **es_MX** - your digital goods currency will be Mexican Peso.
 
 **To rename your locale** go to the /languages/ folder in your installation files and simply change the name of the language file you use eg: /languages/es_ES to /languages/es_MX
 
