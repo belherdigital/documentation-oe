@@ -19,7 +19,7 @@ There are many hosting providers that are compatible with Open eShop, but what d
 
 + MySQL 5+
 + Apache 2+
-+ PHP 5.5+ or higher
++ PHP 5.6+ or higher
 + Short Tags
 + mod_rewrite
 + GD support
